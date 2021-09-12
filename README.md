@@ -1,1 +1,1 @@
-# WIT-Codemithra
+# Codemithra
